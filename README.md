@@ -15,7 +15,14 @@ My mission as a Computer Scientist and a software engineer is to make more than 
 **Tools/Technologies**: Git, GitHub, Unity <br>
 
 ## **Projects**
-**ELUCID** (May 2024 - Aug 2024) [![My Skills](https://skillicons.dev/icons?i=cs,git,github,unity)](https://skillicons.dev)
+**Commander Coco’s Stellar Domination** (September 2024) [![My Skills](https://skillicons.dev/icons?i=cs,git,github,unity)](https://skillicons.dev)
+- ShellHack 2024 Best First Time Hacker Winner
+- Developed and optimized player movement, projectile behavior, and collision detection systems using C# in Unity, ensuring smooth and responsive gameplay mechanics.
+- Implemented background music scripting in Unity, marking the first time working with audio integration, while also designing and integrating interactive UI elements for a seamless player experience.
+- Wrote 35,930 lines of code and made 17 commits over the course of 36 hours during a hackathon, contributing to core gameplay systems, audio, and UI design.
+- **Skills Utilized**: Unity, C#, Git, GitHub<br>
+
+<br>**ELUCID** (May 2024 - Aug 2024) [![My Skills](https://skillicons.dev/icons?i=cs,git,github,unity)](https://skillicons.dev)
 - Developed a 2D top-down horror-themed light puzzle game.
 - Responsible for player movement implementation and comprehensive player management to ensure an immersive gaming experience.
 - Utilized Unity game engine and Git/GitHub for version control and collaboration.
